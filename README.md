@@ -2,8 +2,7 @@
 
 ### Junior Backend .NET Developer
 
-Information Systems graduate from the **Faculty of Computers and Artificial Intelligence at Assiut National University**.
-
+Graduate of the **Information Systems Department**, Faculty of Computers and Artificial Intelligence, Assiut National University.
 I build secure, reliable, and maintainable web applications using **C#**, **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.
 
 My work focuses on role-based business applications, authentication and authorization, server-side validation, database management, and automated workflows. I also have freelance experience preparing comprehensive SEO audit reports for websites.
