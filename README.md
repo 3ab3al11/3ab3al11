@@ -2,9 +2,11 @@
 
 ### Junior Backend .NET Developer
 
-Backend developer focused on building secure, reliable, and maintainable web applications using **C#**, **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.
+Information Systems graduate from the **Faculty of Computers and Artificial Intelligence at Assiut National University**.
 
-I have experience developing role-based business applications that include authentication, authorization, data validation, automated workflows, database management, and multilingual interfaces.
+I build secure, reliable, and maintainable web applications using **C#**, **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**.
+
+My work focuses on role-based business applications, authentication and authorization, server-side validation, database management, and automated workflows. I also have freelance experience preparing comprehensive SEO audit reports for websites.
 
 ---
 
