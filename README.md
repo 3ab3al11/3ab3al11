@@ -114,4 +114,3 @@ I use **ChatGPT and Cursor** for technical research, rapid prototyping, debuggin
 - **LinkedIn:** [linkedin.com/in/ahmed-mohamed-web-dev](https://www.linkedin.com/in/ahmed-mohamed-web-dev/)
 - **GitHub:** [github.com/3ab3al11](https://github.com/3ab3al11)
 - **Email:** [ahmed.moh.abdelaal.dev@gmail.com](mailto:ahmed.moh.abdelaal.dev@gmail.com)
-- **Email2:** [ahmed3ab3al0@gmail.com](mailto:ahmed3ab3al0@gmail.com)
