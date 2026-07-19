@@ -2,7 +2,7 @@
 
 # Ahmed Mohamed Abdel Aal
 
-### Junior Backend .NET Developer
+###  Backend .NET Developer
 
 Computer Science and Artificial Intelligence graduate focused on building secure, reliable, and maintainable backend applications with **C# and .NET**.
 
