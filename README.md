@@ -26,6 +26,7 @@ Computer Science and Artificial Intelligence graduate focused on building secure
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 9](https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -72,18 +73,18 @@ A secure, bilingual university-admission platform built by a four-developer team
 
 ---
 
-### [Clinic Flow](https://github.com/3ab3al11/Clinic_Flow)
+### [E-Commerce Platform](https://github.com/3ab3al11/E-Commerce-Platform)
 
-A physiotherapy clinic and appointment-management platform developed as a two-developer team project using **ASP.NET Core MVC and SQLite**.
+An individual e-commerce platform delivered as separate **.NET 9 ASP.NET Core MVC and REST API applications** using Entity Framework Core and SQL Server.
 
-`3 roles` | `10 entities` | `67 controller actions` | `6 appointment states`
+`2 applications` | `4 roles` | `3 API languages` | `Stripe Checkout`
 
-- Created dedicated Patient, Doctor, and Admin workflows for availability, appointments, confirmations, and medical-file handling.
-- Implemented an atomic booking guard to prevent two users from reserving the same appointment slot.
-- Secured medical uploads with a 5 MB limit, four allowed formats, file-signature validation, and role-based access checks.
-- Applied authentication, password hashing, server-side validation, and authorization guards to sensitive operations.
+- Built catalog, shopping-cart, checkout, order-processing, inventory, filtering, pagination, image-upload, and promotional-code workflows.
+- Implemented ASP.NET Core Identity for the MVC application and JWT authentication with rotating refresh tokens for the REST API.
+- Added role-based authorization, email confirmation, OTP password recovery, and profile management.
+- Integrated Stripe Checkout, order and order-item persistence, inventory updates, email notifications, and OpenAPI/Scalar documentation.
 
-**Technologies:** `C#` `ASP.NET Core MVC` `Entity Framework Core` `SQLite`
+**Technologies:** `C#` `.NET 9` `ASP.NET Core MVC` `REST API` `Entity Framework Core` `SQL Server` `JWT` `Stripe`
 
 ---
 
@@ -112,7 +113,7 @@ I use **ChatGPT, Cursor, and Claude** for technical research, rapid prototyping,
 
 ## Experience and Leadership
 
-- **Freelance ASP.NET Core Developer - Khamsat (July 2026-Present):** diagnosed and resolved a real ASP.NET Core application issue for a paid client, earning a [verified 5-star review](https://khamsat.com/user/a7med3ab3al/reviews/1142928).
+- **Paid ASP.NET Core Troubleshooting Project - Khamsat (July 2026):** diagnosed and resolved an ASP.NET Core application issue for a paid client, delivered the fix successfully, and earned a [verified 5-star review](https://khamsat.com/user/a7med3ab3al/reviews/1142928).
 - **President, Student Union - Assiut National University (2022-2026):** led university-wide student teams and developed leadership, communication, stakeholder coordination, and problem-solving skills.
 
 ## Contact
